@@ -1,0 +1,7 @@
+Font:
+- app/layout.tsx
+
+Custom Color:
+- tailwind.config.ts
+- theme -> extend -> colors -> i
+
